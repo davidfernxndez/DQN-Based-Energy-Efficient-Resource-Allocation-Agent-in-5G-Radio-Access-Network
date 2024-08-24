@@ -1,0 +1,2 @@
+power_tx_mw;femto_height;users_height;LOS;NLOS;femto_k_NLOS;femto_k_LOS;femto_alpha_NLOS;femto_alpha_LOS;femto_d_LOS;PIRE;femto_offset;br_embb;femto_avg_SE;ue_pnoise_ch_femto;SINRmin;SINRmax;Smax;alpha_thr;femto_hyst;scheduling_SE_param;ue_scheduling_strategy
+1000;4;1.5;1;0;22.38;436.813;43.3;16.9;100;30;0;5;2;-112.4472749;0.1;999.95;5.98;0.6;6;0.5;0

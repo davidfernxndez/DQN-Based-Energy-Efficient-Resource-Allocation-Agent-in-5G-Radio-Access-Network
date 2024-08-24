@@ -1,0 +1,2 @@
+agent_num_prbs;num_cells;num_prbs;bw_prb;thr_min;num_ues;scenario_x_size;scenario_y_size;px_size;cell_x_pos;cell_y_pos
+10;2;555;0.18;5;25;100;100;1;[15,85];[15,85]
