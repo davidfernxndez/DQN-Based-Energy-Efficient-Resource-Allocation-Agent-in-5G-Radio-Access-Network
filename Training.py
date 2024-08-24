@@ -23,10 +23,10 @@ from Environment import Environment
 
 # Set up the environment
 num_cells = 2
-num_steps = 100
+num_steps = 1000
 
 # Set the number of episodes during training
-num_episodes = 3
+num_episodes = 3000
 
 # Set the exploration fraction value
 exploration_fraction = 0.3
