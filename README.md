@@ -43,4 +43,4 @@ of the agent’s performance under various conditions, highlighting the effects 
 **Appendix C: Advantages of discretizing throughput as a state variable.** The content of this appendix relates to Chapter 4, demonstrating why the design choices made for the state space in that chapter
 are optimal for facilitating the agent’s learning.
 
-**Appendix D:Coderepository.** Thisappendixdetails the structure of the code developed for this project, which is available in GitHub.
+**Appendix D: Code repository.** Thisappendixdetails the structure of the code developed for this project, which is available in GitHub.
